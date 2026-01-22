@@ -13,7 +13,7 @@ The analysis focuses on identifying **battery level thresholds and time patterns
 
 ![Free2move Operations Dashboard](screenshots/dashboard.png)
 
-
+Tableau : https://public.tableau.com/app/profile/alexandra.merli/viz/Classeur2_17665439841440/Tableaudebord1
 ---
 
 ## 🧠 Business Context
