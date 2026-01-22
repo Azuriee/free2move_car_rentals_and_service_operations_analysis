@@ -9,6 +9,11 @@ The objective is to better understand **when sending a field agent to manage cha
 
 The analysis focuses on identifying **battery level thresholds and time patterns** where operational interventions may become unnecessary, helping reduce avoidable costs while maintaining vehicle availability.
 
+## 📊 Dashboard Preview
+
+![Free2move Operations Dashboard](screenshots/dashboard.png)
+
+
 ---
 
 ## 🧠 Business Context
